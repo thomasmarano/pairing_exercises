@@ -9,14 +9,14 @@ $ bundle install
 ### Instructions
 
 1. Decide in your pairs when to rotate driver and navigate:
- > by setting a 15 min timer
- > by passing a test
+ - by setting a 15 min timer
+ - by passing a test
  
 2. Focus on passing 1 test at a time - discuss your approach and implement `Scrabble#score`!
 
 3. We'll have a short ten minute reflection halfway through. 
- > What's going well?
- > what can you improve on?
+ - What's going well?
+ - what can you improve on?
 
 4. We'll reflect on the exercise at the end
 
